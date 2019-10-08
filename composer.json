@@ -1,5 +1,6 @@
 {
     "name": "astralo/eve-esi-api-php",
+    "version": "1.0.0",
     "description": "Swagger api for EVE Online ESI",
     "keywords": [
         "esi",
